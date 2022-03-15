@@ -9,12 +9,6 @@
   
    
  
-<h1>Contribution-grid</h1>
-   
-![snake gif](https://github.com/WelberthTito/WelberthTito/blob/output/github-contribution-grid-snake.gif)
-
-   
-   
 <h1>📱Contact</h1>
   
  

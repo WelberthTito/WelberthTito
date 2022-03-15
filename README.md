@@ -6,6 +6,10 @@
 
   <H1>Skills<H1>
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img height="100" width="100"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /> <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /> 
+   
+   
+   
+![snake gif](https://github.com/WelberthTito/WelberthTito/blob/output/github-contribution-grid-snake.gif)
 
 <h1>📱Contact</h1>
   

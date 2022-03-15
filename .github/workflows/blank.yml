@@ -1,13 +1,56 @@
-uses: WelberthTito
+# snk
+
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
+@@ -21,9 +22,16 @@ Available as github action. Automatically generate a new image at the end of the
+```yaml
+- uses: Platane/snk@master
   with:
     # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.WelberthTito }}
-
+    github_user_name: WelberthTito
+    gif_out_path: dist/github-contribution-grid-snake.gif
+    svg_out_path: dist/github-contribution-grid-snake.svg
     # path of the generated gif file
     # If left empty, the gif file will not be generated
     gif_out_path: dist/github-snake.gif
-
     # path of the generated svg file
     # If left empty, the svg file will not be generated
     svg_out_path: dist/github-snake.svg
+```
+
+> [example with cron job](https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L13-L18)
+  16  action.yml 
+@@ -2,12 +2,6 @@ name: "generate-snake-game-from-github-contribution-grid"
+description: "Generates a snake game from a github user contributions grid. Output the animation as gif or svg"
+author: "platane"
+
+outputs:
+  gif_out_path:
+    description: "path of the generated gif. If left empty, will not generate a gif file"
+  svg_out_path:
+    description: "path of the generated svg. If left empty, will not generate a svg file"
+
+runs:
+  using: "docker"
+  image: "docker://platane/snk:latest"
+@@ -17,10 +11,16 @@ inputs:
+    description: "github user name"
+    required: true
+  gif_out_path:
+    description: "path of the generated gif"
+    description: "path of the generated gif file. If left empty, the gif file will not be generated."
+    required: false
+    default: null
+  svg_out_path:
+    description: "path of the generated svg"
+    description: "path of the generated svg file. If left empty, the svg file will not be generated."
+    required: false
+    default: null
+
+outputs:
+  gif_out_path:
+    description: "path of the generated gif"
+  svg_out_path:
+    description: "path of the generated svg"

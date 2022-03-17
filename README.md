@@ -16,9 +16,9 @@
   
  
   
-  ### Se gostou do que viu aqui, e quer entrar em contato, seguem os links para as minhas redes sociais!
-  
-  <a href="https://web.whatsapp.com/send?phone=5586994107024" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> <a href="https://www.linkedin.com/in/welberth-vieira-tito-lima-5603501ba/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  ### Se gostou do que viu aqui, e quer entrar em contato, segue o links para o meu Linkedin!
+
+<a href="https://www.linkedin.com/in/welberth-vieira-tito-lima-5603501ba/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  
  
 

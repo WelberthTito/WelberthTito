@@ -16,7 +16,8 @@
   
  
   
-  ### Se gostou do que viu aqui, e quer entrar em contato, segue o links para o meu Linkedin!
+  ### Se gostou do que viu aqui, e quer entrar em contato, segue o link para o meu Linkedin!
+
 
 <a href="https://www.linkedin.com/in/welberth-vieira-tito-lima-5603501ba/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  

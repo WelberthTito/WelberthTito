@@ -2,7 +2,6 @@
 
    <br>
    
-   <h2> :mag_right: Aqui apresento a vocês um pouco do meu trabalho, e de minhas habilidades:<h2>
    
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WelberthTito&show_icons=true&theme=radical)
 
